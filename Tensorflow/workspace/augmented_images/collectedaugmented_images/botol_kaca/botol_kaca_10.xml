@@ -1,0 +1,26 @@
+<annotation>
+	<folder>botol_kaca</folder>
+	<filename>botol_kaca_10.jpg</filename>
+	<path>F:\Tutorial\learn-tensorflow-object-detection\Tensorflow\workspace\images\collectedimages\botol_kaca\botol_kaca_10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botol_kaca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154.765625</xmin>
+			<ymin>55.416666666666664</ymin>
+			<xmax>298.046875</xmax>
+			<ymax>339.7916666666667</ymax>
+		</bndbox>
+	</object>
+</annotation>

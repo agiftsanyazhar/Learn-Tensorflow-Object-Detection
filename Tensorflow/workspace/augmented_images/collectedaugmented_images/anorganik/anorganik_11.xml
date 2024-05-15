@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anorganik</folder>
+	<filename>anorganik_11.jpg</filename>
+	<path>F:\Tutorial\learn-tensorflow-object-detection\Tensorflow\workspace\images\collectedimages\anorganik\anorganik_11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anorganik</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211.09375</xmin>
+			<ymin>107.18750000000001</ymin>
+			<xmax>350.0</xmax>
+			<ymax>285.1041666666667</ymax>
+		</bndbox>
+	</object>
+</annotation>
